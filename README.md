@@ -17,7 +17,9 @@ $git clone https://github.com/ViXaR502/crack
 
 $cd crack
 
-$python2 crack.py
+run tools : 
+
+$sh crack.sh
 
 tools buatan sya di nomor 3
 
